@@ -11,7 +11,7 @@
 
 ## 🚀 線上體驗 (Demo)
 
-> **[點擊這裡前往使用網頁版 (Streamlit Cloud)](#)** > *(請將 `#` 替換為你成功在 Streamlit 部署後的專屬網址)*
+> **[點擊這裡前往使用網頁版 (Streamlit Cloud)]([#](https://ebookreaderepub.streamlit.app/))** > 
 
 ---
 
